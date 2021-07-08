@@ -1,7 +1,7 @@
 /* =================================================================== 
  *
- *  Elevate v1.0 Main Stylesheet
- *  url: www.styleshout.com
+ *  Company Name v1.0 Main Stylesheet
+ *  url: www.darwinbox.com
  *  07-04-2016
  *  ------------------------------------------------------------------
  *
@@ -1120,10 +1120,10 @@ header .logo a {
 	padding: 0;
 	outline: 0;
 	border: none;
-	width: 96px;
-	height: 20px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 96px 20px;
+	width: 150px;
+	height: 40px;
+	background: url("Asset\ 1.svg") no-repeat center;
+	background-size: 150px 40px;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
